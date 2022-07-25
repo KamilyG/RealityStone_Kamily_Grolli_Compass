@@ -1,5 +1,5 @@
 require'rspec'
-require_relative '../logic/imc'
+require_relative '../src/imc'
 
 describe('Cálculo IMC') do
     it('Deve calcular com peso e altura corretos') do
