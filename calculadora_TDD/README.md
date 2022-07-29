@@ -7,6 +7,6 @@ Para isso, foram usadas as gems 'Rspec' para testar o código e a 'Pry' para deb
 Fazendo o clone dessa pasta para a sua máquina;  
 Abrir o cmd na pasta onde estão esses arquivos;  
 Comando "bundle install" (para baixar e instalar as gems);  
-Agora é só testar :D  
+Agora é só testar :smile:  
   
-Ps: comando para testes é rspec specs/calculadora_spec.rb
+PS: comando para testes é rspec specs/calculadora_spec.rb
